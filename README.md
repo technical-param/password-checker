@@ -1,23 +1,17 @@
-# 🔐 Password Checker Tool
+# 🔐 Password Checker
 
-A simple yet powerful password strength and leak check tool written in Python.
-
-## ✨ Features
-- Checks password strength (score 0–10)
-- Detects weak patterns:
-  - Missing uppercase / lowercase / numbers / special chars
-  - Sequences (e.g., `1234`, `9876`)
-  - Repeated numbers (e.g., `1111`, `2222`)
-  - Common dictionary words
-- Compares against a small **leaked password database**
-- Provides suggestions for stronger passwords
-- Runs on **Linux / macOS / Windows**
+A Python-based **Password Strength & Breach Checker** tool that analyzes passwords on multiple factors:
+- Strength scoring (0–10 scale)
+- Breach database check (via HaveIBeenPwned API)
+- Detection of weak patterns (dictionary words, sequences, repeats, keyboard walks)
+- Automatic suggestions & tips for improvement
 
 ---
 
-## 🚀 Usage
+## 🚀 Installation
 
-### Clone repository
+Clone this repository to your Linux/Mac system:
+
 ```bash
-git clone https://github.com/YOUR_USERNAME/password-checker.git
+git clone https://github.com/technical-param/password-checker.git
 cd password-checker
