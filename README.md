@@ -12,6 +12,14 @@ A Python-based **Password Strength & Breach Checker** tool that analyzes passwor
 
 Clone this repository to your Linux/Mac system:
 
+---
+
+## 🧑‍💻 Developer
+**Param**  
+Cyber Security Enthusiast  
+📧 technicalparam@outlook.com  
+
+
 ```bash
 git clone https://github.com/technical-param/password-checker.git
 cd password-checker
