@@ -25,4 +25,4 @@ git clone https://github.com/technical-param/password-checker.git
 cd password-checker
 
 Snapshot :
-<img width="731" height="535" alt="Image" src="https://github.com/user-attachments/assets/090b77fe-223c-44f5-8353-b7b9ace5f234" />
+<img width="731" height="535" alt="Image" src="https://github.com/user-attachments/assets/0898831a-6a83-41c5-a0cb-6ad86a4d1c44" />
