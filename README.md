@@ -23,3 +23,6 @@ Cyber Security Enthusiast
 ```bash
 git clone https://github.com/technical-param/password-checker.git
 cd password-checker
+
+Snapshot :
+<img width="731" height="535" alt="Image" src="https://github.com/user-attachments/assets/090b77fe-223c-44f5-8353-b7b9ace5f234" />
